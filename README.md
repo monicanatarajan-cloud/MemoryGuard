@@ -325,25 +325,6 @@ Project Workflow
                          ↓
              Clinical Follow-up Support
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/YOUR-USERNAME/MemoryGuard.git
-
-Move into the project folder:
-
-cd MemoryGuard
-
-Install the required packages:
-
-pip install -r requirements.txt
-
-Run the Streamlit application:
-
-streamlit run app.py
-
-Project Structure
 
 MemoryGuard/
 |
